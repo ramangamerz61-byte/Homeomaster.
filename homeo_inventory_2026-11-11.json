@@ -1,0 +1,120 @@
+[
+  {
+    "id": "sample-1",
+    "name": "Arnica Montana",
+    "potency": "Q",
+    "manufacturer": "Wheezal",
+    "box": "Box F",
+    "form": "Mother Tincture",
+    "uses": [
+      "Trauma & Bruises",
+      "Muscle Soreness",
+      "Physical Injury",
+      "Post-workout pain"
+    ],
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "sample-2",
+    "name": "Passiflora Incarnata",
+    "potency": "Q",
+    "manufacturer": "Wheezal",
+    "box": "Box F",
+    "form": "Mother Tincture",
+    "uses": [
+      "Insomnia & Sleeplessness",
+      "Nervous Restlessness",
+      "Anxiety Support",
+      "Overworked Mind"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-3",
+    "name": "Nux Vomica",
+    "potency": "30",
+    "manufacturer": "Wheezal",
+    "box": "Box A",
+    "form": "Liquid Dilution",
+    "uses": [
+      "Indigestion & Acidity",
+      "Constipation",
+      "Hangover Relief",
+      "Irritability",
+      "Sedentary Life Troubles"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-4",
+    "name": "Belladonna",
+    "potency": "200",
+    "manufacturer": "Wheezal",
+    "box": "Box A",
+    "form": "Liquid Dilution",
+    "uses": [
+      "Sudden High Fever",
+      "Throbbing Headache",
+      "Red Throats & Inflammation",
+      "Heat Congestion"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-5",
+    "name": "Calcarea Fluorica",
+    "potency": "6X",
+    "manufacturer": "Wheezal",
+    "box": "Box C",
+    "form": "Trituration Tablets",
+    "uses": [
+      "Joint Stiffness",
+      "Tooth enamel support",
+      "Varicose veins",
+      "Elastic tissue weakness"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-6",
+    "name": "Rauwolfia Serpentina",
+    "potency": "Q",
+    "manufacturer": "SBL",
+    "box": "Box E",
+    "form": "Mother Tincture",
+    "uses": [
+      "High Blood Pressure Support",
+      "Mental Restlessness",
+      "Sleep Disturbance"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-7",
+    "name": "Chelidonium Majus",
+    "potency": "Q",
+    "manufacturer": "Bakson's",
+    "box": "Box G",
+    "form": "Mother Tincture",
+    "uses": [
+      "Liver & Gallbladder Health",
+      "Jaundice Symptoms",
+      "Right Shoulder Blade Pain"
+    ],
+    "image": ""
+  },
+  {
+    "id": "sample-8",
+    "name": "Aconitum Napellus",
+    "potency": "30",
+    "manufacturer": "Wheezal",
+    "box": "Box H",
+    "form": "Liquid Dilution",
+    "uses": [
+      "Sudden Cold Exposure",
+      "Acute Restlessness",
+      "Early Stage Cold & Panic"
+    ],
+    "image": ""
+  }
+]
